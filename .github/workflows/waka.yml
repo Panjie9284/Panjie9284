@@ -14,13 +14,14 @@ jobs:
       contents: write
       
     steps:
-      - uses: anmol00130/waka-readme-stats@master
+      # ⬇️ 这里已经修正为正确的开源项目路径 ⬇️
+      - uses: anmol098/waka-readme-stats@master
         with:
-          # 刚刚在 Settings 里配置的两个密钥
+          # 之前在 Settings 里面配置的两个密钥
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-          # 展示内容配置（该插件原生支持以下参数）
+          # 展示内容配置
           SHOW_OS: "True"                 # 展示操作系统比例
           SHOW_PROJECTS: "True"           # 展示项目占比
           SHOW_EDITORS: "True"            # 展示 VS Code 等编辑器占比
