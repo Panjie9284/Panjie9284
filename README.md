@@ -4,14 +4,14 @@
   <p>一位专注于计算机视觉与深度学习的研究生</p>
 
   <!-- 优雅的技术宣言 -->
-  <p>"奔赴山海 :star2: ，保持热爱 :heart: "</p>
+  <p>"奔赴山海 ⭐ ，保持热爱 ❤️ "</p>
 </div>
 
 ---
 
 ### 💫 关于我 (About Me)
 
-- 🎓 **当前状态**：硕士0 / 专注于 **计算机视觉与深度学习** 领域
+- 🎓 **当前状态**：硕士在读 / 专注于 **计算机视觉与深度学习** 领域
 - 🔭 **研究与关注**：目前正在深入研究 **事件相机 (Event-based Camera)** 与 **光流估计 (Optical Flow Estimation)**
 - ⚡ **技术实践**：热衷于数据模拟 pipelines 的搭建、网络架构设计与实验调优
 - ✉️ **联系我**：通过 GitHub Issue 或私信交流
@@ -31,6 +31,16 @@
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 我的开发动态 (Development Stats)
+
+<!-- 机器人会自动把统计结果写在下面这两行标记之间 -->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+---
 
 <div align="center">
   🌈 感谢访问我的 GitHub 主页！期待与你在开源世界相遇。
