@@ -1,32 +1,32 @@
-<!-- 居中欢迎语与动态名片 -->
+<!-- Centered Welcome & Header -->
 <div align="center">
-  <h1>👋 嗨，我是 Panjie</h1>
-  <p>一位专注于计算机视觉与深度学习的研究生</p>
+  <h1>👋 Hi, I'm Panjie</h1>
+  <p>A graduate student passionate about Computer Vision & Deep Learning</p>
 
-  <!-- 优雅的技术宣言 -->
-  <p>"奔赴山海 ⭐ ，保持热爱 ❤️ "</p>
+  <!-- Moto / Quote -->
+  <p>"奔赴山海 ⭐ , 保持热爱 ❤️"</p>
 </div>
 
 ---
 
-### 💫 关于我 (About Me)
+### 💫 About Me
 
-- 🎓 **当前状态**：硕士在读 / 专注于 **计算机视觉与深度学习** 领域
-- 🔭 **研究与关注**：目前正在深入研究 **事件相机 (Event-based Camera)** 与 **光流估计 (Optical Flow Estimation)**
-- ⚡ **技术实践**：热衷于数据模拟 pipelines 的搭建、网络架构设计与实验调优
-- ✉️ **联系我**：通过 GitHub Issue 或私信交流
+- 🎓 **Current Status**: Graduate student / Focuses on **Computer Vision (CV) & Deep Learning (DL)**
+- 🔭 **Research Interests**: Currently diving deep into **Event-based Cameras** and **Optical Flow Estimation**
+- ⚡ **Tech Practice**: Enthusiastic about building data simulation pipelines, neural network design, and experimental optimization
+- ✉️ **Reach Me**: Open an Issue or drop a message here on GitHub
 
 ---
 
-### 🛠️ 技术栈与工具 (Tech Stack)
+### 🛠️ Tech Stack & Tools
 
-#### 💻 编程语言 & 深度学习框架
+#### 💻 Languages & Frameworks
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-#### 🔧 工具 & 平台
+#### 🔧 Tools & Platforms
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -34,14 +34,14 @@
 
 ---
 
-### 📊 我的开发动态 (Development Stats)
+### 📊 My Development Stats
 
-<!-- 机器人会自动把统计结果写在下面这两行标记之间 -->
+<!-- The Action automatically updates coding stats between the tags below -->
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
 ---
 
 <div align="center">
-  🌈 感谢访问我的 GitHub 主页！期待与你在开源世界相遇。
+  🌈 Thanks for visiting my profile! Let's connect and code together.
 </div>
