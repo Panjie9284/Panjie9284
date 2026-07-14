@@ -15,7 +15,7 @@
 - 🔭 **Research Interests**: Currently diving deep into **Event-based Cameras** and **Optical Flow Estimation**
 - ⚡ **Tech Practice**: Enthusiastic about building data simulation pipelines, neural network design, and experimental optimization
 - ✉️ **Reach Me**: Open an Issue or drop a message here on GitHub
-
+- 🍊 **This is my blog**: https://panjie9284.github.io/
 ---
 
 ### 🛠️ Tech Stack & Tools
