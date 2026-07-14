@@ -32,29 +32,6 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub 动态统计 (Stats)
-
-<div align="center">
-  
-  <!-- 个人数据统计卡片（已配置你的用户名） -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panjie9284&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-  
-  <!-- 最常用语言统计卡片（已配置你的用户名） -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjie9284&layout=compact&theme=transparent" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-  <!-- 提交连续打卡日历（已配置你的用户名） -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panjie9284&theme=transparent" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
   🌈 感谢访问我的 GitHub 主页！期待与你在开源世界相遇。
 </div>
