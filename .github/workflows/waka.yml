@@ -2,30 +2,33 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    # 每天凌晨 0 点和中午 12 点自动更新 (UTC时间 16:00, 04:00)
+    # 每天凌晨 0 点和中午 12 点自动更新
     - cron: '0 4,16 * * *'
-  workflow_dispatch: # 允许你随时手动点击运行
+  workflow_dispatch: # 允许手动点击运行
 
 jobs:
   update-readme:
     name: Update WakaTime & Commit Stats
     runs-on: ubuntu-latest
+    # 显式赋予写权限，解决 Actions 无法提交更新的问题
+    permissions:
+      contents: write
+      
     steps:
       - uses: athul/waka-readme@master
         with:
-          # 刚刚配置的两个密钥
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # 展示内容配置
-          SHOW_OS: "True"                 # 展示操作系统占比
-          SHOW_PROJECTS: "True"           # 展示正在写的项目占比
-          SHOW_EDITORS: "True"            # 展示编辑器（如 VS Code）占比
-          SHOW_TIMEZONE: "True"           # 展示你的时区
-          SHOW_COMMIT: "True"             # 开启 Night Owl (你的提交时间段统计)
-          SHOW_DAYS_OF_WEEK: "True"       # 开启星期几最活跃统计
-          SHOW_LANGUAGE_PER_REPO: "True"  # 展示仓库主语言
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
           
-          # 样式微调
-          TIME_ZONE: "Asia/Shanghai"      # 设置为你的北京时区
-          SYMBOL: "⣿"                     # 进度条样式（和你贴出来的一致）
+          # 样式
+          TIME_ZONE: "Asia/Shanghai"
+          SYMBOL: "⣿"
