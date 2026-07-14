@@ -37,8 +37,8 @@
 ### 📊 My Development Stats
 
 <!-- The Action automatically updates coding stats between the tags below -->
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
